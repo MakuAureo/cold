@@ -1,5 +1,4 @@
-			Gravidade do Mouse
-
+//Gravidade do Mouse
 function setup() {
   createCanvas(500, 500);
   ob = [
